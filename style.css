@@ -509,6 +509,7 @@ body {
 .beneficios ul {
 
     list-style: none;
+    transition: .5s;
 
 }
 
@@ -535,6 +536,7 @@ body {
     color: var(--dourado);
 
 }
+
 
 
 /* ==================================================
